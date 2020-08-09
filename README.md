@@ -3,3 +3,7 @@
  
  - "!fp" - Change to first-person
  - "!tp" - Change to third-person
+
+Obs:
+ + Only T's can switch cameras.
+ + Mainly for Hide 'n' Seek server where CT's chase.
