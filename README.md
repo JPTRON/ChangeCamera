@@ -6,4 +6,4 @@
 
 Obs:
  + Only T's can switch cameras.
- + Mainly for Hide 'n' Seek server where CT's chase.
+ + Mainly for Hide 'n' Seek servers where CT's chase.
